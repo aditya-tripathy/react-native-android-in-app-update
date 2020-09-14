@@ -2,7 +2,7 @@
   "name": "react-native-android-in-app-update",
   "title": "React Native Android In App Update",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Inapp update for react native android",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,19 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-android-in-app-update.git",
-    "baseUrl": "https://github.com/github_account/react-native-android-in-app-update"
+    "url": "git+https://github.com/aditya-tripathy/react-native-android-in-app-update.git",
+    "baseUrl": "https://github.com/aditya-tripathy/react-native-android-in-app-update.git"
   },
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
-  },
+  "author": "Aditya Kumar Tripathy <aditya.tripathy93@gmail.com>",
   "license": "MIT",
   "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.8.1",
     "react-native": ">=0.60.0-rc.0 <1.0.x"
@@ -36,5 +32,9 @@
   "devDependencies": {
     "react": "^16.9.0",
     "react-native": "^0.61.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/aditya-tripathy/react-native-android-in-app-update/issues"
+  },
+  "homepage": "https://github.com/aditya-tripathy/react-native-android-in-app-update#readme"
 }
